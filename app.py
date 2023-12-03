@@ -3,7 +3,6 @@ import tensorflow as tf
 from keras.utils import save_img
 from tensorflow import keras
 from PIL import Image
-from fpdf import FPDF
 import webbrowser
 import random
 import requests
