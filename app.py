@@ -6,7 +6,6 @@ from PIL import Image
 import webbrowser
 import random
 import requests
-import geocoder
 import folium
 from streamlit_folium import st_folium
 import paho.mqtt.client as mqtt_client
